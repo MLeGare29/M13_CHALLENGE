@@ -14,6 +14,8 @@ The backbone of every economy is the private sector and the businesses, both big
 
 ## TECHNOLOGIES
 
+Below are the programs required for this model to run:
+
 [Python](https://www.python.org/downloads/) - Enables the user to use the powerful Python programming language.
 
 [JupyterLab](https://jupyter.org/) - Access to the web-based IDE JupyterLab.  
@@ -43,6 +45,12 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 Accessing JupyterLab in Bash: `Jupyter Lab`
 
 ## GALLERY
+
+![image](https://github.com/MLeGare29/M13_CHALLENGE/assets/127421460/449aabff-be40-4261-89ba-b37003ea9693)
+
+![image](https://github.com/MLeGare29/M13_CHALLENGE/assets/127421460/61614b36-5a0b-41dc-b7dc-f7eba711d841)
+
+![image](https://github.com/MLeGare29/M13_CHALLENGE/assets/127421460/f1bd39c4-072f-4465-bba7-acb046304616)
 
 
 ## CONTRIBUTORS
